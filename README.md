@@ -1,5 +1,5 @@
 -  Hi👋, I’m Paulo Afonso,
-Front-end developer, coffee lover, javascript fan, currently studying to become a full stack.
+Front-end developer, coffee lover, javascript fan, currently studying to become me a full stack.
 
 
 <!---

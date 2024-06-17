@@ -1,5 +1,5 @@
 -  Hi👋, I’m Paulo Afonso,
-Front-end developer, coffee lover, javascript fan, currently studying frontend web.
+Front-end developer, DevOps Engineer
 
 
 <!---

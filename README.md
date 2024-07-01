@@ -1,5 +1,5 @@
 -  Hi👋, I’m Paulo Afonso,
-Front-end developer, DevOps Engineer
+DevOps Engineer and Front-End Engineer
 
 
 <!---

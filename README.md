@@ -1,6 +1,6 @@
 ## Olá, eu sou Paulo Afonso, Analista de Sistemas, DevOps Engineer!
 
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paullo-afonso&theme=dark&show_icons=true)
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paullo-afonso&theme=aura&show_icons=true)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

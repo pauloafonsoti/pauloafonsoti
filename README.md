@@ -26,5 +26,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paullo-afonso/paullo-afonso/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paullo-afonso/paullo-afonso/output/github-contribution-grid-snake.svg">
 </picture>
-
-![Snake animation](https://github.com/paullo-afonso/paullo-afonso/blob/ouput/github-contribution-grid-snake.svg)

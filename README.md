@@ -1,8 +1,8 @@
 ## Olá, eu sou Paulo Afonso, Analista de Sistemas, DevOps Engineer!
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloafonsoti&theme=aura&show_icons=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloafonsoti&layout=compact&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloafonso-dev&theme=aura&show_icons=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloafonso-dev&layout=compact&theme=aura"/>
 </div>
 
 
@@ -18,11 +18,11 @@
  
 <div> 
   <a href="https://instagram.com/pauloafonso.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pauloafonsoti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/pauloafonso-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pauloafonsoti/pauloafonsoti/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pauloafonsoti/pauloafonsoti/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pauloafonsoti/pauloafonsoti/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pauloafonso-dev/pauloafonso-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pauloafonso-dev/pauloafonso-dev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pauloafonso-dev/pauloafonso-dev/output/github-contribution-grid-snake.svg">
 </picture>
